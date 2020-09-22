@@ -1,0 +1,31 @@
+#yellow {
+	-fx-background-color: yellow;
+}
+
+#yellow:disabled {
+	-fx-opacity: 1;
+}
+
+#blue {
+	-fx-background-color: blue;
+}
+
+#blue:disabled {
+	-fx-opacity: 1;
+}
+
+#red {
+	-fx-background-color: red;
+}
+
+#red:disabled {
+	-fx-opacity: 1;
+}
+
+#green {
+	-fx-background-color: green;
+}
+
+#green:disabled {
+	-fx-opacity: 1;
+}
